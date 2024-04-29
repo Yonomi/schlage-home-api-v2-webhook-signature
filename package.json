@@ -1,0 +1,11 @@
+{
+  "name": "schlage-home-api-webhook-signature",
+  "version": "1.0.0",
+  "description": "Example repository demonstrating verification of signatures received from the Schlage Home API.",
+  "main": "index.js",
+  "scripts": {
+    "verify": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
