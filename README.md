@@ -21,6 +21,7 @@ The `npm run verify` command will run the example.
 
 ## Schlage Home API Public Key
 
+```
 -----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJNrOq6SzG46f5injzHc
 yK0sHYLsXjD7YeIGDIDtqnwvgkYFOCRRDdPenb2fOb9rUJKcVczRXMy7o2PFPNGD
@@ -30,3 +31,4 @@ tbXxyMtgjqaaHvd1xKlA7X8gI6DQtZ5ON7VXp/0/CA8MzNaBoCfDF1ksIfmCBETD
 QGbCWAdjRXYlk06qtT4bVjO7ubcDQzSBl49s7TF1vwTXeoXTqpeC6DfLLMW0SuCc
 mQIDAQAB
 -----END PUBLIC KEY-----
+```
