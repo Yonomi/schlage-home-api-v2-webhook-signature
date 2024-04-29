@@ -1,1 +1,1 @@
-{"eventId":"c0ffb609f373bc533f3a32657c93ec1a","deviceId":"baa9e53e-bf1d-57a5-bbf1-5cf501ec504f","time":"2024-04-29T19:17:18.000Z","eventType":"CommandUpdate","trigger":"CommandSucceeded","data":{"commandId":"7b316fb8-2ddb-4714-95a0-37a39a1a5a28","commandType":"AddAccessCode","clientId":"401gh34b3tm6kqat21841i4ug0"}}
+{"example":"payload"}
