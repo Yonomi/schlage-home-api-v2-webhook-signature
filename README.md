@@ -1,4 +1,4 @@
-# Schlage Home API - Webhook Signatures
+# Schlage Home API V2 - Webhook Signatures
 
 Webhooks sent by the Schlage Home API are signed to provide partners a way to verify the authenticity of the requests beyond inspecting the webhook origin.
 
