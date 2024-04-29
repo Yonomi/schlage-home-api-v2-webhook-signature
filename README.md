@@ -1,6 +1,6 @@
 # Schlage Home API V2 - Webhook Signatures
 
-Webhooks sent by the Schlage Home API are signed to provide partners a way to verify the authenticity of the requests beyond inspecting the webhook origin.
+Webhooks sent by the v2 Schlage Home API are signed to provide partners a way to verify the authenticity of the requests beyond inspecting the webhook origin.
 
 The request payload is signed using an `RSA_2048` key with the `RSASSA_PSS_SHA_256` signing algorithm.
 
